@@ -1,5 +1,7 @@
 # Supermarket Store Sales Analysis
 
+![Hero Image](images/hero.png)
+
 ## Project Overview
 
 This project focuses on the comprehensive analysis of supermarket store sales data. The primary goal is to uncover insights through exploratory data analysis, employ various machine learning techniques to predict sales, and understand the effectiveness of different models. This analysis is particularly useful for identifying key drivers of sales and optimizing business strategies in retail.

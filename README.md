@@ -1,6 +1,6 @@
 # Supermarket Store Sales Analysis
 
-![Hero Image](images/hero.png)
+![Hero Image](hero.png)
 
 ## Project Overview
 
